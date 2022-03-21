@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @jeegutierres
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Ola! :)
+Meu nome é Jessica!
 
-<!---
-jeegutierres/jeegutierres is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Comecei a estudar ADS e estou me aventurando aqui hehee 👀
